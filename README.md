@@ -1,5 +1,7 @@
 # Landing Page
 Landing Page simples de uma Newsletter!
+* Link para o projeto em funcionamento: https://rodrigod324.github.io/landing_page/
+
 * Feito com base neste vídeo: https://www.youtube.com/watch?v=edDCEK5QWE8&t=1296s
 * Link do GitHub: https://github.com/alexandresaints/landing-page-tutorial
 <br>
